@@ -120,7 +120,7 @@ HUGGINGFACEHUB\_API\_TOKEN=your\_huggingface\_token\_here
 
 ```bash
 
-git clone https://github.com/<your-username>/langchain\_prompt\_practice.git
+git clone https://github.com/AnshanSingh/Langchain_prompt_ui.git
 
 cd langchain\_prompt\_practice
 
